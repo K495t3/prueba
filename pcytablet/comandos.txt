@@ -1,0 +1,27 @@
+git init : iniciar repositorio git
+
+git add: para agregar archivo o carpeta
+
+git commit -m "versiòn 2" : para poner etiqueta
+
+git status : me permite saber que archivos y cuales no
+fueron agregados al escenario
+
+pwd : ruta de carpeta
+
+cd /pcytablet : change directory
+
+cd .. regresar una carpeta
+
+mkdir : crea carpetas
+
+touch : crea archivos
+
+ls -al : mostrar archivos en lista
+
+git push : 
+git push origin master : git enviele al origen rama master
+git pull : 
+git pull origin master --allow-unrelated-histories :
+cuando el remoto tiene trabajo que no se tiene localmente
+
